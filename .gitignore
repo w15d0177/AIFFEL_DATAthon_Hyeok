@@ -1,0 +1,15 @@
+# hide tmp(_), secure(__) files
+_*
+__*
+
+########################################
+# Mac OS finder
+.DS_Store
+
+# vscode configurations
+.vscode
+.history
+
+# vim swap file
+.*.swp
+.*.swo
