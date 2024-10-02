@@ -2,6 +2,9 @@
 _*
 __*
 
+# OVER 100MB
+train.csv
+
 ########################################
 # Mac OS finder
 .DS_Store
